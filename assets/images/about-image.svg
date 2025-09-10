@@ -1,0 +1,42 @@
+<svg width="400" height="500" viewBox="0 0 400 500" xmlns="http://www.w3.org/2000/svg">
+    <!-- Background -->
+    <rect width="400" height="500" fill="#1E2028"/>
+    
+    <!-- Gradient background -->
+    <defs>
+        <linearGradient id="aboutGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#7B4397;stop-opacity:0.4" />
+            <stop offset="100%" style="stop-color:#C778DD;stop-opacity:0.4" />
+        </linearGradient>
+    </defs>
+    <rect width="400" height="500" fill="url(#aboutGrad)"/>
+    
+    <!-- Computer/workspace illustration -->
+    <rect x="80" y="150" width="240" height="180" fill="#282C33" stroke="#ABB2BF" stroke-width="2"/>
+    <rect x="90" y="160" width="220" height="140" fill="#1E2028"/>
+    
+    <!-- Screen content -->
+    <rect x="100" y="170" width="60" height="8" fill="#C778DD" opacity="0.7"/>
+    <rect x="100" y="185" width="80" height="8" fill="#98C379" opacity="0.7"/>
+    <rect x="100" y="200" width="100" height="8" fill="#ABB2BF" opacity="0.5"/>
+    <rect x="100" y="215" width="70" height="8" fill="#ABB2BF" opacity="0.5"/>
+    
+    <!-- Code symbols -->
+    <text x="250" y="220" font-family="monospace" font-size="20" fill="#C778DD" opacity="0.6">&lt;/&gt;</text>
+    
+    <!-- Keyboard -->
+    <rect x="100" y="340" width="200" height="40" fill="#282C33" stroke="#ABB2BF" stroke-width="1"/>
+    
+    <!-- Decorative dots -->
+    <circle cx="60" cy="100" r="4" fill="#C778DD" opacity="0.6"/>
+    <circle cx="80" cy="100" r="4" fill="#C778DD" opacity="0.6"/>
+    <circle cx="100" cy="100" r="4" fill="#C778DD" opacity="0.6"/>
+    
+    <circle cx="300" cy="400" r="4" fill="#98C379" opacity="0.6"/>
+    <circle cx="320" cy="400" r="4" fill="#98C379" opacity="0.6"/>
+    <circle cx="340" cy="400" r="4" fill="#98C379" opacity="0.6"/>
+    
+    <!-- Border decoration -->
+    <rect x="20" y="20" width="80" height="80" fill="none" stroke="#ABB2BF" stroke-width="1" opacity="0.3"/>
+    <rect x="300" y="420" width="60" height="60" fill="none" stroke="#ABB2BF" stroke-width="1" opacity="0.3"/>
+</svg>
