@@ -1,0 +1,22 @@
+{
+  "workbench.editor.pinnedTabSizing": "compact",
+  "workbench.editor.pinnedTabsOnSeparateRow": true,
+  "workbench.editor.showTabs": "multiple",
+  "workbench.editor.tabSizing": "shrink",
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "extensions.recommendations": [
+    "ms-vscode.vscode-json",
+    "bradlc.vscode-tailwindcss",
+    "esbenp.prettier-vscode",
+    "ms-vscode.live-server",
+    "ritwickdey.liveserver",
+    "formulahendry.auto-rename-tag",
+    "christian-kohler.path-intellisense",
+    "ms-vscode.vscode-typescript-next",
+    "ms-vscode.vscode-css-peek",
+    "zignd.html-css-class-completion",
+    "pranaygp.vscode-css-peek",
+    "ecmel.vscode-html-css"
+  ]
+}
